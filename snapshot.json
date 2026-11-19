@@ -1,0 +1,86 @@
+{
+  "snapshot_date": "2026-11-19",
+  "type": "static_results_website",
+  "prepared_papers": 3854,
+  "included_papers": 3699,
+  "excluded_papers": 137,
+  "uncertain_papers": 18,
+  "biological_groups": 50,
+  "display_nodes": 24949,
+  "detailed_extraction_complete": false,
+  "source_viewer_sha256": "2a44ba9340a2ab0f8f4b54d93e6dfc1d46a2b243cd92a9f04bb2ac7b23637393",
+  "viewer_data_json_sha256": "478453cfdefe60e2e275757e8242a12b490980737bf624ac1ac55295aee1b8e7",
+  "source_taxonomy_sha256": "ab3056abd3c6750bde553d4312324e03b55f247897a7189c23673fee7e9c73ff",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 38,
+      "sha256": "5d4215f51140c0fd10da8d3756ee6dc534222ae1628eab5c8f18ce7ec981dc21"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3031,
+      "sha256": "0201ab41c0b062c883589e267a4fda50bc157ed5f435f828f79ec43c71ca1499"
+    },
+    {
+      "path": "VALIDATION.txt",
+      "bytes": 1631,
+      "sha256": "3d1c8a03a0fba4bfe4e0b5605757b0856bce87e9c8a525c365e689635b58cb3a"
+    },
+    {
+      "path": "about.html",
+      "bytes": 15324,
+      "sha256": "88ea648eb485e72eae792f7e694d08aec26cf0a34b4bab1ec17faa44d76f0dc2"
+    },
+    {
+      "path": "assets/atlas-data-01.js",
+      "bytes": 8000102,
+      "sha256": "8ade760c9509fa33eb578cad405bcfedf3b87fedc4a3288fc0f92c5fb552c8da"
+    },
+    {
+      "path": "assets/atlas-data-02.js",
+      "bytes": 8000102,
+      "sha256": "9d23871bb4c837eb7d2aab6edcb00310a410d76c75a094fadc53ed56f62e5f8d"
+    },
+    {
+      "path": "assets/atlas-data-03.js",
+      "bytes": 8000102,
+      "sha256": "e9f2db9ff900b9e97544b6c48bc6a178a2a50dea759b2813a4ece259dd182f42"
+    },
+    {
+      "path": "assets/atlas-data-04.js",
+      "bytes": 8000102,
+      "sha256": "d4b999887e1ffca39d3124b661a4bb820d58d8e3c32414fdf80616897e51b3e2"
+    },
+    {
+      "path": "assets/atlas-data-05.js",
+      "bytes": 3853450,
+      "sha256": "f56a61b13d70ce07e83b1571023f15253ece15f40c1e7058fc88c3c9a09437db"
+    },
+    {
+      "path": "assets/atlas.css",
+      "bytes": 5561,
+      "sha256": "0bb1c75d7408d6543dc7ba9c7070547f455d991d745a18a38a110c26c7f6bfff"
+    },
+    {
+      "path": "assets/atlas.js",
+      "bytes": 14131,
+      "sha256": "6e597045272cb17adecea869a5d6542ccc2e1f4cb6137daf01a2cebf8f55c4ac"
+    },
+    {
+      "path": "downloads/taxonomy.json",
+      "bytes": 7976938,
+      "sha256": "ab3056abd3c6750bde553d4312324e03b55f247897a7189c23673fee7e9c73ff"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2118,
+      "sha256": "eb27cbfa2d1b9b752483193e13f0918004c7a6e44961893ce43a56b61275c35e"
+    }
+  ]
+}

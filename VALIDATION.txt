@@ -1,0 +1,28 @@
+Static results website verification — 2026-11-19
+
+PASS: Reassembled viewer data is byte-for-byte identical to the original
+      atlas data. Curated taxonomy file is also identical.
+PASS: All local HTML links and assets resolve within the package.
+PASS: Every file is smaller than GitHub's 25 MiB browser-upload limit.
+PASS: No user-specific local paths or API-key/token patterns found in the
+      decoded research data or packaged text files.
+PASS: Browser loaded the site over HTTP under a project subdirectory,
+      matching GitHub Pages project-site path behavior.
+PASS: 3,854 inventories, 50 groups, 24,949 display nodes, 137 excluded and
+      18 uncertain paper records displayed.
+PASS: Tregs remain a single display node covering 89 paper records;
+      source passages expand and display their original text.
+PASS: Fetuin search finds one shared biomarker node covering 10 records;
+      paper-summary search also resolves display-family aliases.
+PASS: Excluded-paper filter shows 137 records.
+PASS: About page, group descriptions and navigation render correctly.
+PASS: Co-occurrence toggle draws dashed links (five in the tested group).
+PASS: No browser console errors recorded during these checks.
+
+Not verified: Live GitHub deployment, which has not been performed.
+Direct file:// opening was not browser-tested because the automation
+environment permits HTTP(S) navigation only. The website uses relative
+script assets and does not require fetch or a backend for local opening.
+
+This checks packaging and browser behavior, not scientific validity.
+Detailed high/low/normal extraction has not run in this snapshot.
